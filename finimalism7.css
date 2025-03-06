@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap');
 
-.section0 {
-margin-top: 5%;
-height: auto;
-}
-
 #txtCustomCss, #txtLocalCustomCss {
 	height: 400px !important;
 	max-height: none !important;
@@ -1889,6 +1884,8 @@ progress::-webkit-progress-value {
 .layout-desktop #homeTab .section0 .verticalSection.verticalSection-extrabottompadding .itemsContainer.padded-left.padded-right.vertical-wrap.focuscontainer-x,
 .layout-tv #homeTab .section0 .verticalSection.verticalSection-extrabottompadding .itemsContainer.padded-left.padded-right.vertical-wrap.focuscontainer-x {
 	justify-content: space-evenly;
+	margin-top: 5%;
+	height: auto;
 }
 
 .sectionTitle.sectionTitle-cards {
